@@ -6,7 +6,7 @@ include('./httpful.phar');
 include('./functions.php');
 
 // this is found at http://dev.groupme.com/bots
-$bot_token = "the main bot id";
+$bot_token = "2665b95516ec0bdf005c69b22a";
 
 include('./index.php');
 
